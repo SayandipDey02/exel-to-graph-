@@ -115,7 +115,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-Built with love by [Sayandip Dey](https://github.com/SayandipDey02.git)
+Built with love by [Sayandip Dey](https://github.com/SayandipDey02)
 ```
 
 ---
